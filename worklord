@@ -1,7 +1,7 @@
 {
   "discord_user": null,
   "expires_at": null,
-  "macho_key_valid": false,
+  "macho_key_valid": true,
   "status": "success",
   "tenant": "WOCK.XYZ"
 }
